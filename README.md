@@ -1,15 +1,15 @@
-<div align="center">
-<img width="70%" height = "350px" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png" alt="cover" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkaslittlemind" alt="arkaslittlemind" /> </p>
 
-<h1> Hello fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<p align="center">
+<br><img src="hello.gif" width="350px"><br><br>
+</p>
+
+<h2 align="center"> 👋, I am Arkadipta👨‍💻</h2> 
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arkaslittlemind.arkaslittlemind)
 
-</p>
-<div size='20px'> Hi! My name is Arkadipta Mojumder. :smile: 
-</div>
+
 
 <h2> About Me <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
