@@ -43,8 +43,6 @@
 
 ![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaslittlemind&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaslittlemind)](https://github.com/arkaslittlemind/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arkaslittlemind)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arkaslittlemind)  
 
 
