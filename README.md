@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My  Personal Portfolio Website and a food ordering app UI/UX design. 
+- 🔭 I’m currently working on My Personal Portfolio Website and loads of Javascript and React mini projects. 
 
-- 🌱 I’m currently learning MERN stack web development and C++ 
+- 🌱 I’m currently learning Javascript and React 
 
-- 👯 I’m looking to collaborate on Web Development 
- projects
-- 💬 Talk to me about C++, UI/UX, JavaScript, Open Source, Web Development, DSA
+- 👯 I’m looking to collaborate on Frontend Development 
+ projects and also have hands-on experience on contributing to open-source projects
+- 💬 Talk to me about C++, UI/UX, JavaScript, Open Source, Web Development, React
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
