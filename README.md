@@ -7,21 +7,16 @@
 <h2 align="center"> 👋, I am Arkadipta👨‍💻</h2> 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arkaslittlemind.arkaslittlemind)
-
-
-
 <h2> About Me <img align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Personal Portfolio Website and loads of Javascript and React mini projects. 
+- 🔭 I’m currently working on my personal portfolio website and loads of javascript and react mini projects. 
 
 - 🌱 I’m currently learning Javascript and React 
 
-- 👯 I’m looking to collaborate on Frontend Development 
- projects and also have hands-on experience on contributing to open-source projects
+- 👯 I’m looking to collaborate on frontend projects and also have hands-on experience on contributing to open-source projects
 - 💬 Talk to me about C++, UI/UX, JavaScript, Open Source, Web Development, React
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
