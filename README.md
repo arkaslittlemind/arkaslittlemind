@@ -38,4 +38,5 @@
 ![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaslittlemind&show_icons=true&theme=radical)
  
 
+![An image of @arkaslittlemind's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arkaslittlemind)
 
