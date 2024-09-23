@@ -14,12 +14,12 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=node,express,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,prisma)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,linux,githubactions)](https://skillicons.dev)
