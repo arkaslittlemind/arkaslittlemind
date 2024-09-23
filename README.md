@@ -2,7 +2,7 @@
 <h2>I'm Arka</h2>
 
 <h4 >
- Trying to master JavaScript for a leaving
+ Currently exploring the realms of fullstack, other than that I like to write great frontend code 🧑‍💻
 </h4>
 
 <h2>My GitHub Stats</h2>
