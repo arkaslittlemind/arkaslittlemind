@@ -22,4 +22,4 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,linux,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,linux,githubactions,jenkins)](https://skillicons.dev)
