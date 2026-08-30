@@ -2,7 +2,7 @@
 <h2>I'm Arka</h2>
 
 <h4 >
- Currently exploring the realms of fullstack, other than that I like to write neat frontend code 🧑‍💻
+ Currently exploring the realms of agents, other than that I like to write neat fullstack code 🧑‍💻
 </h4>
 
 <h2>Languages</h2>
